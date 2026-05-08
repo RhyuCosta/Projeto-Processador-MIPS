@@ -18,7 +18,7 @@ Este projeto consiste na concepção e implementação de uma versão simplifica
 5. Ative a simulação do Clock (Ctrl+K ou via menu *Simulate > Ticks Enabled*) ou dê pulsos manuais no clock para visualizar a execução de cada instrução ciclo a ciclo.
 
 ## Link para o Vídeo Explicativo
-
+https://youtu.be/43owFhYddug
 
 ## Diagrama de Blocos
 <img width="1600" height="1051" alt="diagrama de blocos" src="https://github.com/user-attachments/assets/9b58ae0f-4e94-4c7d-aa4d-0b3fca98b9c1" />
